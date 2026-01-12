@@ -5,6 +5,8 @@ Bu proje, Veri Analizi dersi kapsamında dönem boyunca öğrenilen teorik bilgi
 ## Veri Seti
 Projede Kaggle platformundan alınan **Heart Disease Dataset** kullanılmıştır.  
 Veri seti, bireylerin çeşitli sağlık ölçümlerine göre kalp hastalığına sahip olup olmadığını göstermektedir.
+Veri Seti Kaynağı:
+https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset
 
 ## Problem Tanımı
 Bu proje bir **sınıflandırma (classification)** problemidir.  
@@ -32,3 +34,10 @@ Elde edilen sonuçlar, seçilen değişkenlerin kalp hastalığı tahmininde anl
 - NumPy
 - Matplotlib / Seaborn
 - Scikit-learn
+
+## Proje Yapısı
+
+- data/
+  - heart.csv
+- veri-analizi-final.ipynb
+- README.md
